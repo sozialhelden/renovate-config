@@ -10,5 +10,5 @@
   "labels": ["dependencies"],
   "automergeStrategy": "rebase",
   "packageRules": [],
-  "ignoreTests": true
+  "ignoreTests": false
 }
